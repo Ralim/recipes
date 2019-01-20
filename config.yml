@@ -1,12 +1,11 @@
-baseURL: https://recipes.lane.sh
+baseURL: https://recipes.ralimtek.com
 disablePathToLower: true
 languageCode: en-us
-title: Lane Recipes
+title: Recipes
 theme: gochowdown
-languagecode: en
 googleAnalytics: 
 defaultcontentlanguage: en
-paginate: 10
+paginate: 20
 canonifyurls: true
 pygmentsstyle: monokai
 pygmentscodefences: true
@@ -15,14 +14,15 @@ pygmentsOptions: "linenos=table"
 permalinks:
   posts: /posts/:year/:month/:title
 params:
-  author: The Lanes
-  description: Recipes used by the Lane family
+  author: Ralim
+  description: Recipes collected by us
   keywords: 'recipes'
   favicon_32: /images/favicon-32x32.png
   favicon_16: /images/favicon-16x16.png
   footercontent: 
-  hidecredits: false
+  hidecredits: true
   hidecopyright: false
+  showNavTitle: true            # Boolean: show site title in nav bar
   custom_css: 
     - style.css
 menu:
@@ -30,9 +30,16 @@ menu:
     - name: Home
       weight: 1
       url: /
-    - name: Resume
+    - name: Category
       weight: 2
-      url: /resume/
-    - name: Posts
+      url: /category/
+    - name: Cuisine
       weight: 3
-      url: /posts/
+      url: /cuisine/
+    - name: Tags
+      weight: 4
+      url: /tags/
+taxonomies:
+  category: category
+  cusine: cuisine
+  tag: tags
