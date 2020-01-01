@@ -9,7 +9,7 @@ authorName: Melissa d'Arabian
 authorURL: http://www.foodnetwork.com/profiles/talent/melissa-darabian
 sourceName: Food Network
 sourceURL: http://www.foodnetwork.com/recipes/melissa-darabian/simply-grilled-chicken-breasts-recipe-1952483
-category: dinner
+category: Dinner
 cuisine: Italian
 tags:
   - Poultry

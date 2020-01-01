@@ -12,7 +12,7 @@ sourceURL: https://www.recipetineats.com/mexican-ground-beef-casserole-with-rice
 category: Dinner 
 cuisine: Mexican 
 tags:
-  - dinner
+  - Dinner
   - beef
   - roast
 yield: 5

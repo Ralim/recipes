@@ -9,7 +9,7 @@ authorName: Beth M.
 authorURL: 
 sourceName: Budget Bytes
 sourceURL: https://www.budgetbytes.com/2009/12/garlic-noodles/
-category: dinner
+category: Dinner
 tags:
   - pasta
   - asian

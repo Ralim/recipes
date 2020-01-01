@@ -9,7 +9,7 @@ authorName: Ali
 authorURL: 
 sourceName: Gimme Some Oven
 sourceURL: https://www.gimmesomeoven.com/skinny-fettuccine-alfredo-recipe/
-category: dinner
+category: Dinner
 cuisine: italian
 tags:
   - pasta

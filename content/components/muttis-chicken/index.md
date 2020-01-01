@@ -9,7 +9,7 @@ authorName: Grandma Mutti
 authorURL: 
 sourceName: 
 sourceURL: 
-category: dinner
+category: Dinner
 tags:
   - poultry
 yield: 6

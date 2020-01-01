@@ -14,7 +14,7 @@ cuisine: Italian
 tags:
   - italian
   - pasta
-  - dinner
+  - Dinner
 yield: 12
 prepTime: "30 Minutes"
 cookTime: "2 Hours 30 Minutes"

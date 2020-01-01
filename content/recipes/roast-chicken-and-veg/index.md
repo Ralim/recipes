@@ -12,7 +12,7 @@ sourceURL: https://gimmedelicious.com/meal-prep-healthy-roasted-chicken-and-vegg
 category: Dinner 
 cuisine: Italian 
 tags:
-  - dinner
+  - Dinner
   - chicken
   - roast
 yield: 4

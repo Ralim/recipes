@@ -13,7 +13,7 @@ category: Dinner
 cuisine: Mexican 
 tags:
   - chicken
-  - dinner
+  - Dinner
 yield: 16 (8 servings)
 prepTime: "1 Hour"
 cookTime: "25 Minutes"
