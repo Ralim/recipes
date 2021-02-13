@@ -12,14 +12,14 @@ sourceURL: https://bromabakery.com/persian-love-cake-cardamom-rose-almond-cake/
 category: Dessert
 cuisine: vegetarian 
 tags:
-  - lunch
-  - salad
+  - dessert
+  - cake
 yield: 4
 prepTime: "15 Minutes"
 cookTime: "40 Minutes"
 
 ingredients:
-- 1/2 cup salted butter, room temperature
+- 110g salted butter, room temperature
 - 3 tablespoons vegetable (or canola) oil
 - 2 large eggs, room temperature
 - 1 cup granulated sugar
