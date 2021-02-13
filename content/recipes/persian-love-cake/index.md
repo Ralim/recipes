@@ -31,12 +31,11 @@ ingredients:
 - 1/2 cup Bob’s Red Mill Super Fine Almond Flour
 - 2 teaspoons ground cardamom
 - 3/4 teaspoon salt
-- 50g raw pistachios (crushed for decoration)
-- 50g edible rose petals
 - (Syrup) 1/3 cup (85ml) lemon juice
 - (Syrup) 1/3 cup (70g) white sugar
 - (Syrup) 1 tsp+ rosewater
-
+- 50g raw pistachios (crushed for decoration)
+- 50g edible rose petals
 
 
 directions:
