@@ -18,8 +18,8 @@ yield: 4
 prepTime: "15 Minutes"
 cookTime: "40 Minutes"
 
-cake ingredients:
-
+ingredients:
+Cake
 - 1/2 cup salted butter, room temperature
 - 3 tablespoons vegetable (or canola) oil
 - 2 large eggs, room temperature
@@ -34,8 +34,8 @@ cake ingredients:
 - 3/4 teaspoon salt
 - 50g raw pistachios (crushed for decoration)
 - 50g edible rose petals
-
-syrup ingredients:
+Syrup
+ingredients:
 - 1/3 cup (85ml) lemon juice
 - 1/3 cup (70g) white sugar
 - 1 tsp+ rosewater
