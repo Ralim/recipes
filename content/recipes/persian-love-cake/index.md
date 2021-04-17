@@ -41,7 +41,10 @@ ingredients:
 directions:
 - Preheat oven to 180°C. Line an 8″ cake pan with parchment paper and set aside.
 - Cream butter, oil, eggs and sugar until light and fluffy. Add in lemon zest, lemon juice, rose water, and vanilla extract.
-- Pour batter into prepared cake pan. Bake for 40 minutes, or until cake is lightly brown on top and a knife inserted into the center comes out clean. Allow to cool slightly before making the syrup.
+- Turn speed to low and add in flour, almond flour, cardamom, baking powder, and salt until just mixed.
+- Pour batter into prepared cake pan. 
+- Bake for 40 minutes, or until cake is lightly brown on top and a knife inserted into the center comes out clean. 
+- Allow to cool slightly before making the syrup.
 - To make the syrup, place the ingredients (lemon juice, white sugar & rosewater) in a heat proof bowl, microwave in 10 second bursts and stir until sugar disolves.
 - Pour syrup on cake.
 - Sprinkle cake with crushed pistachios and rose petals.
