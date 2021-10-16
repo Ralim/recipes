@@ -25,10 +25,10 @@ ingredients:
   - 1kh white button mushrooms
   - 0.5kg butter
   - 128g parmesan (probs 250)
-  - solid handfull / bunch parsley
+  - Solid handfull / Bunch parsley
   - 300 Enoki mushrooms
   - 5-6 Portobello mushroom
-  - shitakki
+  - Shitakki (one packet)
   - 1kg chicken breast diced
   - 2L chicken stock
   - ~2L Hot water
@@ -56,7 +56,6 @@ directions:
   - Cook until liquid boils off
   - Add stock/water and stir until wet (cooking on 3-4)
   - Wait until absorbed and repeat once gluggy until rice is soft
-  - -- meanwhile
   - Water fry all other mushrooms except enoki
   - Until mushrooms are browning
   - Drain mushroom juice into rice
