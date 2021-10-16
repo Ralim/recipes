@@ -21,8 +21,8 @@ prepTime: "20 Minutes"
 cookTime: "20 Minutes"
 
 ingredients:
-  - 1kg ablorio rice
-  - 1kh white button mushrooms
+  - 1kg Arborio rice
+  - 1kg white button mushrooms
   - 0.5kg butter
   - 128g parmesan (probs 250)
   - Solid handfull / Bunch parsley
@@ -42,10 +42,10 @@ directions:
   - Oven until roasted
   - 200-300gms of mushrooms minced tiny (3mm)
   - White mushrooms quartered
-  - Seperate Enoki mushrooms
+  - Separate Enoki mushrooms
   - Portobello sliced to 0.5cm slices
   - Rough cut any other mushroom
-  - Diced chicken to 2cm
+  - Diced chicken to 2cma
   - Finely diced onion
   - Minced garlic
   - Heat up stock to boil
@@ -62,15 +62,14 @@ directions:
   - Once mushrooms have reduced by about 50%, throw in a knob of butter +enoki
   - Fry with butter until browned
   - Set aside
-  - Check eggplant isnt burning  🤣
-  - Fry chicken, tiny bit of oil or butter, brown chicken.
+  - Check eggplant isn't burning  🤣
+  - Fry chicken, a tiny bit of oil or butter, brown chicken.
   - Throw excess juice into rice
-  - Once rice is at consistency of just sticking together
-  - Creamy is good
+  - Once the rice is at the consistency of just sticking together (creamy is good)
   - Throw eggplant, mushrooms, chicken in
   - Low heat to keep warm
   - Put in parmesan cheese
   - Add salt now (not before)
-  - Rough cut parsley and throw in
+  - Rough cut parsley and throw-in
   - Stir and season to taste
 ---
