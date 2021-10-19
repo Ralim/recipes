@@ -37,39 +37,23 @@ ingredients:
   - Eggplant (1-2)
 
 directions:
-  - Diced eggplant -small 2cm triangles
-  - Season lightly + oil
-  - Oven until roasted
-  - 200-300gms of mushrooms minced tiny (3mm)
-  - White mushrooms quartered
-  - Separate Enoki mushrooms
-  - Portobello sliced to 0.5cm slices
-  - Rough cut any other mushroom
-  - Diced chicken to 2cma
-  - Finely diced onion
-  - Minced garlic
-  - Heat up stock to boil
-  - Big pot garlic +onion + oil + knob of button
-  - Don't Brown  - just translucent
-  - Deglaze with dry white if you have or stock
-  - Throw in all the rice (1kg) + knob of butter+minced mushroom
-  - Cook until liquid boils off
-  - Add stock/water and stir until wet (cooking on 3-4)
-  - Wait until absorbed and repeat once gluggy until rice is soft
-  - Water fry all other mushrooms except enoki
-  - Until mushrooms are browning
-  - Drain mushroom juice into rice
-  - Once mushrooms have reduced by about 50%, throw in a knob of butter +enoki
-  - Fry with butter until browned
-  - Set aside
-  - Check eggplant isn't burning  🤣
-  - Fry chicken, a tiny bit of oil or butter, brown chicken.
-  - Throw excess juice into rice
-  - Once the rice is at the consistency of just sticking together (creamy is good)
-  - Throw eggplant, mushrooms, chicken in
-  - Low heat to keep warm
-  - Put in parmesan cheese
-  - Add salt now (not before)
-  - Rough cut parsley and throw-in
-  - Stir and season to taste
+  - Preheat oven to 200C
+  - Dice eggplant into small 2cm triangles
+  - Place into oven until roasted
+  - Season lightly with oil
+  - Cut chicken into 2cm chunks
+  - dice mushrooms finely except Enoki
+  - In pan use 1tsp oil to fry chicken until browned
+  - Remove chicken and add mushrooms
+  - Cook mushrooms until light golden, then add to chicken bowl
+  - Put pot on low, add button and melt.
+  - Add garlic and onion, Saute for 3 minutes or until soft (clear)
+  - Turn heat up to high and add rice and stir until grains start to go translucent
+  - Add stock or wine and cook, scraping bottom to remove any brown flavour ~ 2 mins
+  - Turn down heat to medium low, add 3 cups of stock.
+  - Leave uncovered to cook, until liquid absorbed
+  - Check rice, add stock 1/2 cup at a time until rice is cooked to slightly sticky
+  - Add the rest back in (Chicken, mushrooms, eggplant)
+  - Add salt, cheese
+  - At the end add more butter, then stir vigorously to activate starch
 ---
