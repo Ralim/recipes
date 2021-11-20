@@ -3,7 +3,7 @@ disablePathToLower: true
 languageCode: en-us
 title: Recipes
 theme: gochowdown
-googleAnalytics: 
+googleAnalytics:
 defaultcontentlanguage: en
 paginate: 20
 canonifyurls: true
@@ -16,14 +16,14 @@ permalinks:
 params:
   author: Ralim
   description: Recipes collected by us
-  keywords: 'recipes'
+  keywords: "recipes"
   favicon_32: /images/favicon-32x32.png
   favicon_16: /images/favicon-16x16.png
-  footercontent: 
+  footercontent:
   hidecredits: true
   hidecopyright: false
-  showNavTitle: true            # Boolean: show site title in nav bar
-  custom_css: 
+  showNavTitle: true # Boolean: show site title in nav bar
+  custom_css:
     - style.css
 menu:
   main:
